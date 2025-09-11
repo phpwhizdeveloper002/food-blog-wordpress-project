@@ -76,9 +76,11 @@ wordpress/
 <img width="1899" height="918" alt="image (24)" src="https://github.com/user-attachments/assets/8a4c5cfe-d819-4c28-93ee-bc729ccab018" />
 <img width="1895" height="914" alt="image (23)" src="https://github.com/user-attachments/assets/5a4e042f-8425-44ee-9e1c-5c1fee990707" />
 <img width="1893" height="919" alt="image (22)" src="https://github.com/user-attachments/assets/1189136d-cf17-4b14-a200-6a7a20e7ff73" />
-![image](https://github.com/user-attachments/assets/2d6b1c38-133c-43f3-a48d-354c563405a1)
+<img width="1893" height="919" alt="image (21)" src="https://github.com/user-attachments/assets/96fadb04-b52e-4d83-bdde-ce4e84edacda" />
+
 
 ## 🎯 Done!
 
 Your WordPress project should now be running locally 🎉
+
 
